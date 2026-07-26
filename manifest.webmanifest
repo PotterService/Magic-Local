@@ -1,0 +1,9 @@
+{
+  "name": "Bow Magic Collection Manager",
+  "short_name": "Bow Magic",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f3f8",
+  "theme_color": "#16131f",
+  "description": "A browser-based Magic: The Gathering collection manager powered by Scryfall."
+}
