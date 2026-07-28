@@ -35,3 +35,13 @@ Each visitor's collection stays in their own browser. Users should export backup
 ## Data source
 
 Card data and images are provided at runtime by Scryfall. This project is not produced by, endorsed by, supported by, or affiliated with Wizards of the Coast.
+
+
+## Bow Collection Hub
+
+This version includes direct links to:
+
+https://collection.potterservice.com
+
+Visitors can use the Bow Collection Hub to discover the other Bow collection managers and apps.
+The link appears in the sidebar, top navigation area, and dashboard.
